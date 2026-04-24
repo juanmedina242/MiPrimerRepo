@@ -2,4 +2,4 @@
 
 My First Repository/Primer Repositorio Kyr
 
-Mi primrea contribucion local para Github
+Mi primera contribucion local para Github
